@@ -35,7 +35,6 @@ g++ generator.cpp
 
 ```text
 ./a.exe 
-
 ```
 
 4. Compile the source code using a C++ compiler of solver:
